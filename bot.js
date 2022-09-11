@@ -6,8 +6,8 @@
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
+//▮iamsurajit567@gmail.com
+//▮WHATSAPP US : +91 76058 93554
 //▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -33,15 +33,15 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
+global.owner = ['917605893554',''] //owner number +917605893554
+global.wame = ['917605893554'] 
+global.pemilik = ['917605893554'] //owner number +917605893554
+global.premium = ['917605893554'] //premium number +917605893554
+global.pengguna = 'TOXIC-SURYA' //username
 global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
+global.botnma = 'TOXIC-SURYA' //bot name
+global.botname = 'TOXIC-SURYA'
+global.ownernma = 'SURYA~0P' //owner name
 global.packname = 'Drips' //sticker package name
 global.author = 'By Drips Memes' //sticker author name
 global.sessionName = 'session' //session name
